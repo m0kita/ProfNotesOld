@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProfNotes</string>
+
+    <!-- Utils -->
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Login -->
+    <string name="login">Вход</string>
+    <string name="hintLogin">Пожалуйста, войдите для продолжения</string>
+    <string name="hintLoginOrPhone">Номер телефона или логин</string>
+    <string name="password">Пароль</string>
+    <string name="loginWithoutAccount">Или войдите без аккаунта, если не хотите пользоваться всеми возможностями</string>
+    <string name="hintForgotPassword">Не помните свой пароль? Восстановите пароль</string>
+    <string name="btnLogin">Войти</string>
+
+    <!-- Home -->
+    <string name="goodMorning">Доброе утро,</string>
+    <string name="today">Сегодня</string>
+    <string name="news">Новости</string>
+    <string name="hintSearch">Поиск по заметкам</string>
+    <string name="labelNewNotes">Новые заметки %1$s</string>
+    <string name="labelMyNotes">Мои задачи %1$s</string>
+    <string name="labelShowMyNotes">Все задачи</string>
+</resources>
